@@ -1,4 +1,5 @@
 import React from 'react';
+import { JSX } from 'react';
 import { Field, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 
 interface Fields {
